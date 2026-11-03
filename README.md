@@ -18,7 +18,7 @@ Dataset
 Face Mask Dataset (Kaggle)
 
 Results
-Achieved approximately 96–98% accuracy.
+Achieved approximately 92-93% accuracy.
 
 Future Scope
 - Detect multiple safety equipment
